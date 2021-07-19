@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForSureLife.Models\ForSureLife.Models.csproj" />
+    <ProjectReference Include="..\ForSureLife.repo\ForSureLife.repo.csproj" />
+    <ProjectReference Include="..\ForSureLife.util\ForSureLife.util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp.LGPLv2.Core" Version="1.7.1" /> 
+  </ItemGroup>
+
+</Project>

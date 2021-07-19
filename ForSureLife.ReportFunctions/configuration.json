@@ -1,0 +1,12 @@
+﻿{
+  "type": "service_account",
+  "project_id": "spry-sequence-311800",
+  "private_key_id": "f8d619dc4662c25df7927886f06c4ecc25063ae2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPekbUDTb+Ls/v\nkOXrbxhQkpaBFP2S/p0w3P9dJO+B5AnYkAzvHXZ9SMnLTHne8cPg+wEEjrhqmIF5\nwOdtd3QbOfrwxJYDns6vYKhdrdtGZrwuvHPh/1m+ibMZq4WixyE1HFtEKgx73Ocn\n8Cp47am5YBgAJ7eSrwUv61nqxopJOd2MfFuWUv+K+tcCeEASynr8SElLxFLrwHuG\nrB4gbR9SsR547vtcj2bUj894e+I4MDFbxTYwmJ73Akplrkek7lbc8HpNr2Y2Uq+n\nor0QRK1TLUCmTflWp//POMu1P7qwWO3V4DUIZXTqa36pDzZ61qpFUnrLkGHnof2V\njTVzGPxrAgMBAAECggEAA54SK2hU6SGlJnwpm21DHe8wXe0hGWBZxUb/0ilECR5n\naDXlboCJAa40i9g4LRbyCgjWVQoCqnkg6MqK6RxdaIweP/cYK9VSV+R2NbaY+CVF\nFVuGebjwtk3C/ajr75FL7EJ4+jtGycdpkFyzoOAj8W4nfPk0Ti5sXLrcb9IpCcBx\n1GF/UhHj7wktqEMFvROU2Ue+KweSTnkHGjlOqeEEsVLd+U5QqgZ3VWY+wCKTla4Z\nNEQpBNjjlwYiscoCJlKb5oyLvqsKP4f5RHmsrrNS6biESaL26GxsRuGMPG86lkjI\nv8r/M3fi0oeEjXeSWHAQUt79GTtmJLktahx6Fi7jAQKBgQDnZPJgUtVhyMQZaYu+\nezK5wh2bq3xqvz3my0s9Y6RdVEum8mHZ9ORR0bsZssZYkLttkLLEupiicc4COe8O\n4ZSE8EazLBun1ICyB/WsZ2R9wAz3VgMruLJZXcfzLb7hqKj0r2B+sij2knl9wcQA\nyXIDlrK2DdnFPoAGuJg1uFTjoQKBgQDlikQmE7k1mQpgEz7NcaimJlGijMX2805A\nXORpu1ykytEphZck6c4Gs+ovHYh+i0xjrJiT4ucYUgkuMw6xq0iYA0P/w8Dxe+iD\npZazYElFchiqz2oL4xzsf6tLF05JAicUNEv2AjPqPIlcFw+CKYjshY4mq63KVj3d\nCL5KHIbkiwKBgHwPSkfMgW0A1+qMBQlmQgcIBRnOMlGFISoZOsi6IIiNRlZGw6G4\nw6T+XmLjz6XySxruJnqFVIpbm8jjyMDgvuEbdbxgXJ95tlo9HEGH2X/2NL1zFxYc\n2zpAppBBqYKRC6zMTl7/JCk21P5QocaOOpuj80LaYDR5UujHlYvPvWuhAoGAFIci\nAxm+dYmjQOZXtn3UrE8++7+FMMmflOf50W7dISu2OvVkh/uU3kqWxfHpNA/3G+7i\nkk83hZhIk+YjCUadLmMUYLo79hyztZpIePBCfUBv7k6wWDHOc2QTiJqj+KmFnyvy\nIyUdSXRygFbbnzNhuG1VQiYWW8MMs0jF49DbS3MCgYEA2qdVV5gqRYL97fUPI2ZG\nafslQbph0dku32902lkLOsH/h+qhS86i0EEElZME2v5TaA/ID/3ChPBFgaEvgrga\n/204Ay7C3oAJyWerzZpxqUpTsXtBqzbvcqGqG8xqMMPi995yMfn9BPv26ht5OH0J\ngDuxNikFN0C1rWLHvn5UDOY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "functionjobreporting@spry-sequence-311800.iam.gserviceaccount.com",
+  "client_id": "102943025886371876015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/functionjobreporting%40spry-sequence-311800.iam.gserviceaccount.com"
+}
